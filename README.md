@@ -1,5 +1,14 @@
 # gif-secret
 ## Embed and encrypt a message in GIF file
+### Install dependencies
+Prod
+```commandline
+    poetry install --only main
+```
+Development
+```commandline
+    poetry install --with dev
+```
 
 ### Usage example
 Encode and save the file
