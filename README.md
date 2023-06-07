@@ -1,6 +1,8 @@
 # gif-secret
 ## Embed and encrypt a message in GIF file
 ### Install dependencies
+Supported Python version: 3.11
+
 Prod
 ```commandline
     poetry install --only main
