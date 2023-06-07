@@ -1,5 +1,5 @@
 # gif-secret
-## Embed and encrypt a message in GIF file
+## Embed and encrypt a message in a GIF file
 ### Install dependencies
 Supported Python version: 3.11
 
